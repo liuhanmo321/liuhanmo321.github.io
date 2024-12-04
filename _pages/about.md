@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a forth-year PhD candidate in Data Science and Analytics, HKUST. My reserach interest lies in efficient machine learning, including continual learning on different data modalities and efficient auto machine learning. I am honoured to be supervised by Prof. [CHEN, Lei](https://cse.hkust.edu.hk/~leichen/) and Prof. [YANG, Can](https://sites.google.com/site/eeyangc/). Prior to my PhD study, I received my B.Sc. degree in Honors Physics and Computer Science from HKUST in 2021.
+I am a forth-year PhD candidate in Data Science and Analytics, HKUST. My reserach interest lies in efficient machine learning, including continual learning on different data modalities and efficient auto machine learning. I am honoured to be supervised by Prof. [CHEN, Lei](https://cse.hkust.edu.hk/~leichen/). Prior to my PhD study, I received my B.Sc. degree in Honors Physics and Computer Science from HKUST in 2021.
 
 [Email](mailto: hliubm@connect.ust.hk) / [CV](https://liuhanmo321.github.io/files/Hanmo_Liu_CV.pdf) / [Google Scholar](https://scholar.google.com/citations?user=7cL-8BkAAAAJ)
 
