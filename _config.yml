@@ -21,7 +21,7 @@ repository               : "liuhanmo321/liuhanmo321.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "myself.jpg"
+  avatar           : "myself.JPG"
   name             : "Hanmo LIU"
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate at HKUST"
