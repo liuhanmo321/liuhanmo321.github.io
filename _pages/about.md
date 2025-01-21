@@ -13,6 +13,8 @@ I am a forth-year PhD candidate in Data Science and Analytics, HKUST. My reserac
 
 ## Publications
 
+- Zhifeng Jia, **Hanmo Liu**, Haoyang Li, Lei Chen. "SIT: Selective Incremental Training for Dynamic Knowledge Graph Embedding." Accepted by ICDE 2025.
+
 - Jialiang Wang, Shimin Di, **Hanmo Liu**, Zhili Wang, Jiachuan Wang, Lei Chen, Xiaofang Zhou. "Computation-friendly Graph Neural Network Design by Accumulating Knowledge on Large Language Models." Preprint. [Link](https://arxiv.org/abs/2408.06717) 
 
 - **Hanmo LIU**, Shimin DI, Haoyang LI, Shuangyin LI, Lei CHEN, Xiaofang ZHOU. "Effective Data Selection and Replay for Unsupervised Continual Learning." Accepted by ICDE 2024. [Link](https://ieeexplore.ieee.org/abstract/document/10598102) 
@@ -29,5 +31,6 @@ I am a forth-year PhD candidate in Data Science and Analytics, HKUST. My reserac
 
 ## Academic Service
 
+- **Program Committee Member**: WWW 2025 Short Paper
 - **Conference Reviewer**: WWW 2025; ICLR 2025; DASFAA 2025, 2024
 - **Journal Reviewer**: TKDE
