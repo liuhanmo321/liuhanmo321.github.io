@@ -19,7 +19,7 @@ I am a forth-year PhD candidate in Data Science and Analytics, HKUST. My reserac
 
 ### Conference Papers
 
-#### Continual Learning
+***Continual Learning***
 
 - **Hanmo Liu**, Shimin Di, Haoyang Li, Xun Jian, Yue Wang, Lei Chen. "A Selective Learning Method for Temporal Graph Continual Learning." Accpeted by **ICML 2025**. [Link](https://arxiv.org/abs/2503.01580)
 
@@ -30,7 +30,7 @@ I am a forth-year PhD candidate in Data Science and Analytics, HKUST. My reserac
 
 - **Hanmo Liu**, Shimin Di, Lei Chen. "Incremental Tabular Learning on Heterogeneous Feature Space." Accepted by **SIGMOD 2023**. [Link](https://dl.acm.org/doi/10.1145/3588698)
 
-#### Auto Machine Learning
+***Auto Machine Learning***
 
 - **Hanmo Liu**, Shimin Di, Jialiang Wang, Zhili Wang, Jiachuan Wang, Xiaofang Zhou, Lei Chen. "Knowledge Benchmark Graph: Assisting Large Language Models in Designing Models by Retrieving Benchmark Knowledge." Accepted by **ICLR 2025**. [Link](https://openreview.net/forum?id=49fIu0yDJ4&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2025%2FConference%2FAuthors%23your-submissions))
 
