@@ -45,5 +45,5 @@ I am a forth-year PhD candidate in Data Science and Analytics, HKUST. My reserac
 ## Academic Service
 
 - **Program Committee Member**: WWW 2025 Short Paper
-- **Conference Reviewer**: WWW 2025; ICLR 2025; DASFAA 2025, 2024
+- **Conference Reviewer**: MM 2025; WWW 2025; ICLR 2025; DASFAA 2025, 2024
 - **Journal Reviewer**: TKDE
