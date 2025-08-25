@@ -15,7 +15,8 @@ I am a forth-year PhD candidate in Data Science and Analytics, HKUST. My reserac
 
 ### Preprints
 
-- Jialiang Wang, Shimin Di, **Hanmo Liu**, Zhili Wang, Jiachuan Wang, Lei Chen, Xiaofang Zhou. "Computation-friendly Graph Neural Network Design by Accumulating Knowledge on Large Language Models." Preprint. [Link](https://arxiv.org/abs/2408.06717) 
+- Jialiang Wang, **Hanmo Liu**, Shimin Di, Zhili Wang, Jiachuan Wang, Lei Chen, Xiaofang Zhou. "Proficient Graph Neural Network Design by Accumulating Knowledge on Large Language Models." Preprint. [Link](https://arxiv.org/abs/2408.06717)
+- Jialiang Wang, **Hanmo Liu**, Shimin Di, Zhili Wang, Jiachuan Wang, Lei Chen, Xiaofang Zhou. "Beyond Model Base Selection: Weaving Knowledge to Master Fine-grained Neural Network Design." Preprint. [Link](https://arxiv.org/abs/2507.15336)
 
 ---
 
@@ -41,7 +42,7 @@ I am a forth-year PhD candidate in Data Science and Analytics, HKUST. My reserac
 
 ## Teaching Experience
 
-### Teaching Assistant: 
+### Teaching Assistant:
 
 - **DSAA 5013**: Advanced Machine Learning (Spring 2024)
 - **DSAA 5020**: Foundation of Data Science and Analytics (Fall 2023)
@@ -51,4 +52,4 @@ I am a forth-year PhD candidate in Data Science and Analytics, HKUST. My reserac
 
 - **Program Committee Member**: WWW 2025 Short Paper
 - **Conference Reviewer**: MM 2025; WWW 2025; ICLR 2025; DASFAA 2025, 2024
-- **Journal Reviewer**: TKDE
+- **Journal Reviewer**: TKDE, TCSS
