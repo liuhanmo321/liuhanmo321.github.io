@@ -23,7 +23,7 @@ I am a forth-year PhD candidate in Data Science and Analytics, HKUST. My reserac
 
 ### Conference Papers
 
-***Data-centric Machine Learning***
+***Data-driven Machine Learning***
 
 - **Hanmo Liu**, Shimin Di, Haoyang Li, Xun Jian, Yue Wang, Lei Chen. "A Selective Learning Method for Temporal Graph Continual Learning." Accpeted by **ICML 2025**. [Link](https://arxiv.org/abs/2503.01580)
 
