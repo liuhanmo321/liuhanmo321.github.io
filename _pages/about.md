@@ -15,7 +15,7 @@ I am a forth-year PhD candidate in Data Science and Analytics, HKUST. My reserac
 
 ### Preprints
 
-- Jialiang Wang, **Hanmo Liu**, Shimin Di, Zhili Wang, Jiachuan Wang, Lei Chen, Xiaofang Zhou. "Proficient Graph Neural Network Design by Accumulating Knowledge on Large Language Models." Preprint. [Link](https://arxiv.org/abs/2408.06717)
+
 - Jialiang Wang, **Hanmo Liu**, Shimin Di, Zhili Wang, Jiachuan Wang, Lei Chen, Xiaofang Zhou. "Beyond Model Base Selection: Weaving Knowledge to Master Fine-grained Neural Network Design." Preprint. [Link](https://arxiv.org/abs/2507.15336)
 - Shengxiang Xu, Jiayi Zhang, Shimin Di, Yuyu Luo, Liang Yao, **Hanmo Liu**, Jia Zhu, Fan Liu, Min-Ling Zhang "RobustFlow: Towards Robust Agentic Workflow Generation." Preprint. [Link](https://arxiv.org/abs/2509.21834)
 
@@ -24,6 +24,8 @@ I am a forth-year PhD candidate in Data Science and Analytics, HKUST. My reserac
 ### Conference Papers
 
 ***Data-driven Machine Learning***
+
+- Jialiang Wang, **Hanmo Liu**, Shimin Di, Zhili Wang, Jiachuan Wang, Lei Chen, Xiaofang Zhou. "Proficient Graph Neural Network Design by Accumulating Knowledge on Large Language Models." **WSDM 2026 Oral**. [Link](https://arxiv.org/abs/2408.06717)
 
 - **Hanmo Liu**, Shimin Di, Haoyang Li, Xun Jian, Yue Wang, Lei Chen. "A Selective Learning Method for Temporal Graph Continual Learning." Accpeted by **ICML 2025**. [Link](https://arxiv.org/abs/2503.01580)
 
