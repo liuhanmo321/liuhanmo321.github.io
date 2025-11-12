@@ -36,8 +36,8 @@ I was fortunate to be advised by Prof. [CHEN, Lei](https://cse.hkust.edu.hk/~lei
 - A Selective Learning Method for Temporal Graph Continual Learning. Accpeted by **ICML 2025**. [Link](https://proceedings.mlr.press/v267/liu25l.html)
   - **Hanmo Liu**, Shimin Di, Haoyang Li, Xun Jian, Yue Wang, Lei Chen. 
 
-- Structuring Benchmark into Knowledge Graphs to Assist Large Language Models in Retrieving and Designing Models. Accepted by **ICLR 2025**. [Link](https://openreview.net/forum?id=49fIu0yDJ4&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.
-  - **Hanmo Liu**, Shimin Di, Jialiang Wang, Zhili Wang, Jiachuan Wang, Xiaofang Zhou, Lei Chen.  cc%2F2025%2FConference%2FAuthors%23your-submissions))
+- Structuring Benchmark into Knowledge Graphs to Assist Large Language Models in Retrieving and Designing Models. Accepted by **ICLR 2025**. [Link](https://openreview.net/forum?id=49fIu0yDJ4).
+  - **Hanmo Liu**, Shimin Di, Jialiang Wang, Zhili Wang, Jiachuan Wang, Xiaofang Zhou, Lei Chen.  
 
 - SIT: Selective Incremental Training for Dynamic Knowledge Graph Embedding. Accepted by **ICDE 2025**. [Link](https://ieeexplore.ieee.org/document/11113089/)
   - Zhifeng Jia, **Hanmo Liu**, Haoyang Li, Lei Chen. 
