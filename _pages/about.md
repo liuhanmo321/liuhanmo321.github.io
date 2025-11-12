@@ -65,6 +65,6 @@ I was fortunate to be advised by Prof. [CHEN, Lei](https://cse.hkust.edu.hk/~lei
 
 ## Academic Service
 
-- **Program Committee Member**: WWW 2025 Short Paper
-- **Conference Reviewer**: MM 2025; WWW 2025; ICLR 2025; DASFAA 2025, 2024
+- **Program Committee Member**: WWW 2026 Demo, WWW 2025 Short Paper
+- **Conference Reviewer**: ICLR 2026/2025; MM 2025; WWW 2025; DASFAA 2025, 2024
 - **Journal Reviewer**: TKDE, TCSS
