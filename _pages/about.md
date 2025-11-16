@@ -11,7 +11,7 @@ I am Hanmo LIU, a recent Ph.D. graduate in Data Science and Analytics from the [
 
 My research interests lie in **efficient and data-driven machine learning**, such as continual learning on different data modalities and efficient auto machine learning. Specifically, my Ph.D. work focused on how to select the best set of data and models to boost machine learning effectiveness.
 
-I was fortunate to be advised by Prof. [CHEN, Lei](https://cse.hkust.edu.hk/~leichen/) and Prof. [YANG, Can](https://sites.google.com/site/eeyangc/). I also hold a B.Sc. in Honors Physics and Computer Science from HKUST (2021).
+I was fortunate to be advised by Prof. [CHEN, Lei](https://cse.hkust.edu.hk/~leichen/) and Prof. [YANG, Can](https://sites.google.com/site/eeyangc/). I also hold a B.Sc. in Honors Physics and Computer Science from [Department of Physics](https://physics.hkust.edu.hk/), HKUST (2021).
 
 [Email](mailto: hliubm@connect.ust.hk) / [Google Scholar](https://scholar.google.com/citations?user=7cL-8BkAAAAJ)
 
