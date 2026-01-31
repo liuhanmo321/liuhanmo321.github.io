@@ -7,11 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-I am Hanmo LIU, a recent Ph.D. graduate in Data Science and Analytics from the [Division of Emerging Interdisciplinary Areas (EMIA)](https://emia.hkust.edu.hk/) at [HKUST](https://hkust.edu.hk/).
+I am Hanmo LIU, a recent Ph.D. graduate in Data Science and Analytics from the [Division of Emerging Interdisciplinary Areas (EMIA)](https://emia.hkust.edu.hk/) at [HKUST](https://hkust.edu.hk/). I was fortunate to be advised by Prof. [CHEN, Lei](https://cse.hkust.edu.hk/~leichen/) and Prof. [YANG, Can](https://sites.google.com/site/eeyangc/). I also hold a B.Sc. in Honors Physics and Computer Science from [Department of Physics](https://physics.hkust.edu.hk/), HKUST (2021).
 
 My research interests lie in **efficient and data-driven machine learning**, such as continual learning on different data modalities and efficient auto machine learning. Specifically, my Ph.D. work focused on how to select the best set of data and models to boost machine learning effectiveness.
 
-I was fortunate to be advised by Prof. [CHEN, Lei](https://cse.hkust.edu.hk/~leichen/) and Prof. [YANG, Can](https://sites.google.com/site/eeyangc/). I also hold a B.Sc. in Honors Physics and Computer Science from [Department of Physics](https://physics.hkust.edu.hk/), HKUST (2021).
 
 [Email](mailto: hliubm@connect.ust.hk) / [Google Scholar](https://scholar.google.com/citations?user=7cL-8BkAAAAJ)
 
@@ -19,7 +18,7 @@ I was fortunate to be advised by Prof. [CHEN, Lei](https://cse.hkust.edu.hk/~lei
 
 ### Preprints
 
-- Beyond Model Base Selection: Weaving Knowledge to Master Fine-grained Neural Network Design. Preprint. [Link](https://arxiv.org/abs/2507.15336)
+- Beyond Model Base Retrieval: Weaving Knowledge to Master Fine-grained Neural Network Design. Preprint. [Link](https://arxiv.org/abs/2507.15336)
   - Jialiang Wang, **Hanmo Liu**, Shimin Di, Zhili Wang, Jiachuan Wang, Lei Chen, Xiaofang Zhou. 
 - RobustFlow: Towards Robust Agentic Workflow Generation. Preprint. [Link](https://arxiv.org/abs/2509.21834)
   - Shengxiang Xu, Jiayi Zhang, Shimin Di, Yuyu Luo, Liang Yao, **Hanmo Liu**, Jia Zhu, Fan Liu, Min-Ling Zhang. 
@@ -55,7 +54,7 @@ I was fortunate to be advised by Prof. [CHEN, Lei](https://cse.hkust.edu.hk/~lei
 - When Speed meets Accuracy: an Efficient and Effective  Graph Model for Temporal Link Prediction. Accepted by **VLDB 2025** [Link](https://dl.acm.org/doi/10.14778/3748191.3748203)
   - Haoyang Li, Yuming Xu, Yiming Li, **Hanmo Liu**, Darian Li, Chen Jason Zhang, Lei Chen, Qing Li.
 
-## Teaching Experience
+## Experiences
 
 ### Teaching Assistant:
 
@@ -63,8 +62,15 @@ I was fortunate to be advised by Prof. [CHEN, Lei](https://cse.hkust.edu.hk/~lei
 - **DSAA 5020**: Foundation of Data Science and Analytics (Fall 2023)
 - **MSBD 5002**: Data Mining and Knowledge Discovery (Spring 2023)
 
-## Academic Service
+### Academic Service
 
 - **Program Committee Member**: WWW 2026 Demo, WWW 2025 Short Paper
-- **Conference Reviewer**: ICLR 2026/2025; MM 2025; WWW 2025; DASFAA 2025, 2024
+- **Conference Reviewer**: ICML 2026; ICLR 2026/2025; MM 2025; WWW 2025; DASFAA 2025, 2024
 - **Journal Reviewer**: TKDE, TCSS
+
+### Awards
+
+- DSA Excellence Award (Research), DSA Thrust, HKUST(GZ), 2025
+- Second Prize Outstanding Paper, Guangdong Computing Association, 2023/2024
+- HKUST Postgraduate Scholarship, HKUST, 2021-2024
+- Paul Ching Wu Chu Scholarship for Outstanding Academic Performance, Physics Department, HKUST, 2020
