@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Hanmo LIU, a recent Ph.D. graduate in Data Science and Analytics from the [Division of Emerging Interdisciplinary Areas (EMIA)](https://emia.hkust.edu.hk/) at [HKUST](https://hkust.edu.hk/). I was fortunate to be advised by Prof. [CHEN, Lei](https://cse.hkust.edu.hk/~leichen/) and Prof. [YANG, Can](https://sites.google.com/site/eeyangc/). I also hold a B.Sc. in Honors Physics and Computer Science from [Department of Physics](https://physics.hkust.edu.hk/), HKUST (2021).
+I am Hanmo LIU, a recent Ph.D. graduate in Data Science and Analytics from the [Division of Emerging Interdisciplinary Areas (EMIA)](https://emia.hkust.edu.hk/) at [HKUST](https://hkust.edu.hk/). I was fortunate to be advised by Prof. [CHEN, Lei](https://cse.hkust.edu.hk/~leichen/) and Prof. [YANG, Can](https://sites.google.com/site/eeyangc/). Previous to that, I obtained a B.Sc. in Honors Physics and Computer Science from [Department of Physics](https://physics.hkust.edu.hk/), HKUST in 2021.
 
 My research interests lie in **efficient and data-driven machine learning**, such as continual learning on different data modalities and efficient auto machine learning. Specifically, my Ph.D. work focused on how to select the best set of data and models to boost machine learning effectiveness.
 
@@ -18,6 +18,8 @@ My research interests lie in **efficient and data-driven machine learning**, suc
 
 ### Preprints
 
+- Learning to Compose for Cross-domain Agentic Workflow Generation. Preprint. [Link](https://arxiv.org/abs/2602.11114)
+  - Jialiang Wang, Shengxiang Xu, **Hanmo Liu**, Jiachuan Wang, Yuyu Luo, Shimin Di, Min-Ling Zhang, Lei Chen.
 - Beyond Model Base Retrieval: Weaving Knowledge to Master Fine-grained Neural Network Design. Preprint. [Link](https://arxiv.org/abs/2507.15336)
   - Jialiang Wang, **Hanmo Liu**, Shimin Di, Zhili Wang, Jiachuan Wang, Lei Chen, Xiaofang Zhou. 
 - RobustFlow: Towards Robust Agentic Workflow Generation. Preprint. [Link](https://arxiv.org/abs/2509.21834)
@@ -26,8 +28,6 @@ My research interests lie in **efficient and data-driven machine learning**, suc
 ---
 
 ### Conference Papers
-
-***Data-driven Machine Learning***
 
 - Proficient Graph Neural Network Design by Accumulating Knowledge on Large Language Models. **WSDM 2026 Oral**. [Link](https://arxiv.org/abs/2408.06717)
   - Jialiang Wang, **Hanmo Liu**, Shimin Di, Zhili Wang, Jiachuan Wang, Lei Chen, Xiaofang Zhou.
@@ -47,10 +47,6 @@ My research interests lie in **efficient and data-driven machine learning**, suc
 - Incremental Tabular Learning on Heterogeneous Feature Space. Accepted by **SIGMOD 2023**. [Link](https://dl.acm.org/doi/10.1145/3588698)
   - **Hanmo Liu**, Shimin Di, Lei Chen.
 
-
-
-***Temporal Graph Learning***
-
 - When Speed meets Accuracy: an Efficient and Effective  Graph Model for Temporal Link Prediction. Accepted by **VLDB 2025** [Link](https://dl.acm.org/doi/10.14778/3748191.3748203)
   - Haoyang Li, Yuming Xu, Yiming Li, **Hanmo Liu**, Darian Li, Chen Jason Zhang, Lei Chen, Qing Li.
 
@@ -65,7 +61,7 @@ My research interests lie in **efficient and data-driven machine learning**, suc
 ### Academic Service
 
 - **Program Committee Member**: WWW 2026 Demo, WWW 2025 Short Paper
-- **Conference Reviewer**: ICML 2026; ICLR 2026/2025; MM 2025; WWW 2025; DASFAA 2025, 2024
+- **Conference Reviewer**: KDD 2026; ICML 2026; ICLR 2026/2025; MM 2025; WWW 2025; DASFAA 2025/2024
 - **Journal Reviewer**: TKDE, TCSS
 
 ### Awards
