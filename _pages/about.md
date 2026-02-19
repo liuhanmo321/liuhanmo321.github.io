@@ -32,22 +32,22 @@ My research interests lie in **efficient and data-driven machine learning**, suc
 - Proficient Graph Neural Network Design by Accumulating Knowledge on Large Language Models. **WSDM 2026 Oral**. [Link](https://arxiv.org/abs/2408.06717)
   - Jialiang Wang, **Hanmo Liu**, Shimin Di, Zhili Wang, Jiachuan Wang, Lei Chen, Xiaofang Zhou.
 
-- A Selective Learning Method for Temporal Graph Continual Learning. Accpeted by **ICML 2025**. [Link](https://proceedings.mlr.press/v267/liu25l.html)
+- A Selective Learning Method for Temporal Graph Continual Learning. **ICML 2025**. [Link](https://proceedings.mlr.press/v267/liu25l.html)
   - **Hanmo Liu**, Shimin Di, Haoyang Li, Xun Jian, Yue Wang, Lei Chen. 
 
-- Structuring Benchmark into Knowledge Graphs to Assist Large Language Models in Retrieving and Designing Models. Accepted by **ICLR 2025**. [Link](https://openreview.net/forum?id=49fIu0yDJ4).
+- Structuring Benchmark into Knowledge Graphs to Assist Large Language Models in Retrieving and Designing Models. **ICLR 2025**. [Link](https://openreview.net/forum?id=49fIu0yDJ4).
   - **Hanmo Liu**, Shimin Di, Jialiang Wang, Zhili Wang, Jiachuan Wang, Xiaofang Zhou, Lei Chen.  
 
-- SIT: Selective Incremental Training for Dynamic Knowledge Graph Embedding. Accepted by **ICDE 2025**. [Link](https://ieeexplore.ieee.org/document/11113089/)
+- SIT: Selective Incremental Training for Dynamic Knowledge Graph Embedding. **ICDE 2025**. [Link](https://ieeexplore.ieee.org/document/11113089/)
   - Zhifeng Jia, **Hanmo Liu**, Haoyang Li, Lei Chen. 
 
-- Effective Data Selection and Replay for Unsupervised Continual Learning. Accepted by **ICDE 2024**. [Link](https://ieeexplore.ieee.org/abstract/document/10598102) 
+- Effective Data Selection and Replay for Unsupervised Continual Learning. **ICDE 2024**. [Link](https://ieeexplore.ieee.org/abstract/document/10598102) 
   - **Hanmo LIU**, Shimin DI, Haoyang LI, Shuangyin LI, Lei CHEN, Xiaofang ZHOU.
 
-- Incremental Tabular Learning on Heterogeneous Feature Space. Accepted by **SIGMOD 2023**. [Link](https://dl.acm.org/doi/10.1145/3588698)
+- Incremental Tabular Learning on Heterogeneous Feature Space. **SIGMOD 2023**. [Link](https://dl.acm.org/doi/10.1145/3588698)
   - **Hanmo Liu**, Shimin Di, Lei Chen.
 
-- When Speed meets Accuracy: an Efficient and Effective  Graph Model for Temporal Link Prediction. Accepted by **VLDB 2025** [Link](https://dl.acm.org/doi/10.14778/3748191.3748203)
+- When Speed meets Accuracy: an Efficient and Effective  Graph Model for Temporal Link Prediction. **VLDB 2025** [Link](https://dl.acm.org/doi/10.14778/3748191.3748203)
   - Haoyang Li, Yuming Xu, Yiming Li, **Hanmo Liu**, Darian Li, Chen Jason Zhang, Lei Chen, Qing Li.
 
 ## Experiences
