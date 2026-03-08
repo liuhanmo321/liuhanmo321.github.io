@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Hanmo LIU, a recent Ph.D. graduate in Data Science and Analytics from the [Division of Emerging Interdisciplinary Areas (EMIA)](https://emia.hkust.edu.hk/) at [HKUST](https://hkust.edu.hk/). I was fortunate to be advised by Prof. [CHEN, Lei](https://cse.hkust.edu.hk/~leichen/) and Prof. [YANG, Can](https://sites.google.com/site/eeyangc/). Previous to that, I obtained a B.Sc. in Honors Physics and Computer Science from [Department of Physics](https://physics.hkust.edu.hk/), HKUST in 2021.
+I am Hanmo LIU, a researcher in Search and Recommendation Lab, Huawei Singapore Research Center. I earned my Ph.D. in Data Science and Analytics from the [Division of Emerging Interdisciplinary Areas (EMIA)](https://emia.hkust.edu.hk/) at [HKUST](https://hkust.edu.hk/) in 2026. I was fortunate to be advised by Prof. [CHEN, Lei](https://cse.hkust.edu.hk/~leichen/) and Prof. [YANG, Can](https://sites.google.com/site/eeyangc/). Previous to that, I obtained a B.Sc. in Honors Physics and Computer Science from [Department of Physics](https://physics.hkust.edu.hk/), HKUST in 2021.
 
 My research interests lie in **efficient and data-driven machine learning**, such as continual learning on different data modalities and efficient auto machine learning. Specifically, my Ph.D. work focused on how to select the best set of data and models to boost machine learning effectiveness.
 
@@ -28,6 +28,9 @@ My research interests lie in **efficient and data-driven machine learning**, suc
 ---
 
 ### Conference Papers
+
+- Adaptive Concept Discovery for Interpretable Few-Shot Text Classification. **ICLR 2026**. [Link](https://openreview.net/forum?id=UZBQ7iZzYz)
+  - Lifang Zheng, **Hanmo Liu**, Kani Chen.
 
 - Proficient Graph Neural Network Design by Accumulating Knowledge on Large Language Models. **WSDM 2026 Oral**. [Link](https://arxiv.org/abs/2408.06717)
   - Jialiang Wang, **Hanmo Liu**, Shimin Di, Zhili Wang, Jiachuan Wang, Lei Chen, Xiaofang Zhou.
