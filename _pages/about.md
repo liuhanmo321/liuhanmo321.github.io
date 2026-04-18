@@ -70,6 +70,10 @@ My research centers on two complementary angles:
   Zhifeng Jia, <u>Hanmo Liu</u>, Haoyang Li, Lei Chen  
   <span class="venue">ICDE 2025</span> &middot; [Paper](https://ieeexplore.ieee.org/document/11113089/)
 
+- **When Speed meets Accuracy: an Efficient and Effective Graph Model for Temporal Link Prediction**  
+  Haoyang Li, Yuming Xu, Yiming Li, <u>Hanmo Liu</u>, Darian Li, Chen Jason Zhang, Lei Chen, Qing Li  
+  <span class="venue">VLDB 2025</span> &middot; [Paper](https://dl.acm.org/doi/10.14778/3748191.3748203)
+
 - **Effective Data Selection and Replay for Unsupervised Continual Learning**  
   <u>Hanmo Liu</u>, Shimin Di, Haoyang Li, Shuangyin Li, Lei Chen, Xiaofang Zhou  
   <span class="venue">ICDE 2024</span> &middot; [Paper](https://ieeexplore.ieee.org/abstract/document/10598102)
@@ -77,10 +81,6 @@ My research centers on two complementary angles:
 - **Incremental Tabular Learning on Heterogeneous Feature Space**  
   <u>Hanmo Liu</u>, Shimin Di, Lei Chen  
   <span class="venue">SIGMOD 2023</span> &middot; [Paper](https://dl.acm.org/doi/10.1145/3588698)
-
-- **When Speed meets Accuracy: an Efficient and Effective Graph Model for Temporal Link Prediction**  
-  Haoyang Li, Yuming Xu, Yiming Li, <u>Hanmo Liu</u>, Darian Li, Chen Jason Zhang, Lei Chen, Qing Li  
-  <span class="venue">VLDB 2025</span> &middot; [Paper](https://dl.acm.org/doi/10.14778/3748191.3748203)
 
 ## Teaching
 
