@@ -68,11 +68,15 @@ $code-background-color-dark : $light-gray;
 $text-color                 : $dark-gray;
 $border-color               : $lighter-gray;
 
+$accent-color               : #2d5ba9;  // deep ocean blue — site accent
+$venue-bg                   : #eef3fb;  // venue pill background (accent-tinted)
+$venue-text                 : #1e3f78;  // venue pill text
+
 $primary-color              : #7a8288;
 $success-color              : #62c462;
 $warning-color              : #f89406;
 $danger-color               : #ee5f5b;
-$info-color                 : #52adc8;
+$info-color                 : $accent-color;
 
 /* brands */
 $behance-color              : #1769FF;

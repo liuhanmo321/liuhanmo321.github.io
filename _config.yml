@@ -10,8 +10,8 @@
 locale                   : "en-US"
 title                    : "Hanmo LIU's Homepage"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Hanmo LIU"
+description              : &description "Hanmo LIU — AI Researcher (Huawei Singapore, HKUST PhD 2026)."
 url                      : https://liuhanmo321.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "liuhanmo321/liuhanmo321.github.io"
@@ -25,8 +25,8 @@ author:
   name             : "Hanmo LIU"
   pronouns         : # example: "she/her"  
   bio              : "hliubm AT connect DOT ust DOT hk"
-  location         : "Hong Kong & Guangzhou"
-  employer         : "HKUST"
+  location         : "Singapore"
+  employer         : "Huawei Singapore"
   uri              : #https://liuhanmo321.github.io
   email            : "hliubm@connect.ust.hk" 
 
@@ -126,13 +126,16 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Open Graph/Twitter default site image
+og_image                 : "/images/myself.jpg"  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
+  type                   : "Person"
+  name                   : "Hanmo LIU"
   links: # An array of links to social media profiles
+    - "https://scholar.google.com/citations?user=7cL-8BkAAAAJ"
+    - "https://orcid.org/0000-0002-6471-0226"
+    - "https://github.com/liuhanmo321"
 
 
 # Analytics
@@ -281,7 +284,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Hong_Kong # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins

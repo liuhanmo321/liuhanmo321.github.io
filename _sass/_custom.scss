@@ -1,0 +1,108 @@
+/* ==========================================================================
+   Custom overrides — Hanmo LIU homepage
+   ========================================================================== */
+
+/* Link color uses the accent blue */
+a {
+  color: $accent-color;
+
+  &:hover,
+  &:focus {
+    color: mix(#000, $accent-color, 20%);
+  }
+
+  &:visited {
+    color: $accent-color;
+  }
+}
+
+/* Masthead hover picks up the accent */
+.masthead__menu-item a:hover,
+.greedy-nav a:hover {
+  color: $accent-color;
+}
+
+/* Section headings — subtle divider under h2 for scanability */
+.page__content {
+  h2 {
+    margin-top: 1.6em;
+    padding-bottom: 0.3em;
+    border-bottom: 1px solid $border-color;
+  }
+
+  h3 {
+    margin-top: 1.2em;
+  }
+
+  /* Breathing room between list items — especially publication entries */
+  ul li {
+    margin-bottom: 0.55em;
+    line-height: 1.65;
+  }
+}
+
+/* Hero block above Publications */
+.hero-status {
+  margin: 0 0 0.8em 0;
+  color: $dark-gray;
+  font-size: 0.92em;
+  letter-spacing: 0.02em;
+
+  i {
+    color: $accent-color;
+    margin-right: 0.35em;
+  }
+}
+
+.hero-links {
+  margin: 1.2em 0 0.4em 0;
+  font-size: 0.98em;
+
+  a {
+    margin-right: 0.25em;
+    white-space: nowrap;
+
+    i {
+      margin-right: 0.2em;
+    }
+  }
+}
+
+.page-anchors {
+  margin: 0.2em 0 1.8em 0;
+  padding: 0.5em 0.8em;
+  background: $venue-bg;
+  border-left: 3px solid $accent-color;
+  border-radius: 3px;
+  font-size: 0.9em;
+
+  a {
+    color: $venue-text;
+    font-weight: 600;
+
+    &:hover {
+      color: $accent-color;
+    }
+  }
+}
+
+/* Publication venue pill */
+.venue {
+  display: inline-block;
+  padding: 0.1em 0.55em;
+  margin-right: 0.25em;
+  font-size: 0.82em;
+  font-weight: 600;
+  color: $venue-text;
+  background: $venue-bg;
+  border-radius: 3px;
+  letter-spacing: 0.02em;
+  vertical-align: 0.05em;
+}
+
+/* Author line under each publication — a touch smaller, softer color */
+.page__content ul li {
+  p {
+    margin: 0;
+  }
+}
