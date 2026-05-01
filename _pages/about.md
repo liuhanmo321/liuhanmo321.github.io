@@ -34,15 +34,13 @@ My research centers on two complementary angles:
 
 ## Publications
 
+\* marks corresponding author.
+
 ### Preprints
 
 - **Learning to Compose for Cross-domain Agentic Workflow Generation**  
   Jialiang Wang, Shengxiang Xu, <u>Hanmo Liu</u>, Jiachuan Wang, Yuyu Luo, Shimin Di, Min-Ling Zhang, Lei Chen  
   <span class="venue">Preprint</span> &middot; [Paper](https://arxiv.org/abs/2602.11114)
-
-- **Beyond Model Base Retrieval: Weaving Knowledge to Master Fine-grained Neural Network Design**  
-  Jialiang Wang, <u>Hanmo Liu</u>, Shimin Di, Zhili Wang, Jiachuan Wang, Lei Chen, Xiaofang Zhou  
-  <span class="venue">Preprint</span> &middot; [Paper](https://arxiv.org/abs/2507.15336)
 
 - **RobustFlow: Towards Robust Agentic Workflow Generation**  
   Shengxiang Xu, Jiayi Zhang, Shimin Di, Yuyu Luo, Liang Yao, <u>Hanmo Liu</u>, Jia Zhu, Fan Liu, Min-Ling Zhang  
@@ -50,6 +48,10 @@ My research centers on two complementary angles:
 
 ### Conference Papers
 
+- **Beyond Model Base Retrieval: Weaving Knowledge to Master Fine-grained Neural Network Design**  
+  Jialiang Wang, <u>Hanmo Liu</u><sup>*</sup>, Shimin Di, Zhili Wang, Jiachuan Wang, Lei Chen, Xiaofang Zhou  
+  <span class="venue">ICML 2026</span> &middot; [Paper](https://arxiv.org/abs/2507.15336)
+  
 - **Adaptive Concept Discovery for Interpretable Few-Shot Text Classification**  
   Lifang Zheng, <u>Hanmo Liu</u>, Kani Chen  
   <span class="venue">ICLR 2026</span> &middot; [Paper](https://openreview.net/forum?id=UZBQ7iZzYz)
