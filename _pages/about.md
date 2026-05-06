@@ -39,11 +39,11 @@ My research centers on two complementary angles:
 ### Preprints
 
 - **ReCast: Recasting Learning Signals for Reinforcement Learning in Generative Recommendation**
-  Peiyan Zhang, <u>Hanmo Liu</u>, Chengxuan Tong, Yuxia Wu, Wei Guo, Yong Liu
+  Peiyan Zhang, <u>Hanmo Liu</u>, Chengxuan Tong, Yuxia Wu, Wei Guo, Yong Liu  
   <span class="venue">Preprint</span> &middot; [Paper](https://arxiv.org/abs/2604.22169v1)
 
 - **FlowEvo: Self-Evolving Agents through the Co-Evolution of Workflows and Executable Skills**
-  Zeyu Ren, Ling Yue, Ran Li, Yishu Wang, <u>Hanmo Liu</u>, Shaowu Pan, Shimin Di
+  Zeyu Ren, Ling Yue, Ran Li, Yishu Wang, <u>Hanmo Liu</u>, Shaowu Pan, Shimin Di  
   <span class="venue">Preprint</span> &middot; [Paper](https://www.researchgate.net/publication/404123514_FlowEvo_Self-Evolving_Agents_through_the_Co-Evolution_of_Workflows_and_Executable_Skills)
 
 - **Learning to Compose for Cross-domain Agentic Workflow Generation**  
