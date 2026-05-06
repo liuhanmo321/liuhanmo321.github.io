@@ -110,5 +110,5 @@ Teaching Assistant at HKUST:
 
 - DSA Excellence Award (Research) — *DSA Thrust, HKUST(GZ), 2025*
 - Second Prize, Outstanding Paper — *Guangdong Computing Association, 2023 / 2024*
-- HKUST Postgraduate Scholarship — *HKUST, 2021–2024*
+- HKUST Postgraduate Scholarship — *HKUST, 2021–2025*
 - Paul Ching Wu Chu Scholarship for Outstanding Academic Performance — *Department of Physics, HKUST, 2020*
