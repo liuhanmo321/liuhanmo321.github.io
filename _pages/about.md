@@ -46,15 +46,15 @@ My research centers on two complementary angles:
   Zeyu Ren, Ling Yue, Ran Li, Yishu Wang, <u>Hanmo Liu</u>, Shaowu Pan, Shimin Di  
   <span class="venue">Preprint</span> &middot; [Paper](https://www.researchgate.net/publication/404123514_FlowEvo_Self-Evolving_Agents_through_the_Co-Evolution_of_Workflows_and_Executable_Skills)
 
-- **Learning to Compose for Cross-domain Agentic Workflow Generation**  
-  Jialiang Wang, Shengxiang Xu, <u>Hanmo Liu</u>, Jiachuan Wang, Yuyu Luo, Shimin Di, Min-Ling Zhang, Lei Chen  
-  <span class="venue">Preprint</span> &middot; [Paper](https://arxiv.org/abs/2602.11114)
-
 - **RobustFlow: Towards Robust Agentic Workflow Generation**  
   Shengxiang Xu, Jiayi Zhang, Shimin Di, Yuyu Luo, Liang Yao, <u>Hanmo Liu</u>, Jia Zhu, Fan Liu, Min-Ling Zhang  
   <span class="venue">Preprint</span> &middot; [Paper](https://arxiv.org/abs/2509.21834)
 
 ### Conference Papers
+
+- **Learning to Compose for Cross-domain Agentic Workflow Generation**  
+  Jialiang Wang, Shengxiang Xu, <u>Hanmo Liu</u>, Jiachuan Wang, Yuyu Luo, Shimin Di, Min-Ling Zhang, Lei Chen  
+  <span class="venue">KDD 2027 · Accepted</span> &middot; [Paper](https://arxiv.org/abs/2602.11114)
 
 - **Beyond Model Base Retrieval: Weaving Knowledge to Master Fine-grained Neural Network Design**  
   Jialiang Wang, <u>Hanmo Liu</u><sup>*</sup>, Shimin Di, Zhili Wang, Jiachuan Wang, Lei Chen, Xiaofang Zhou  
